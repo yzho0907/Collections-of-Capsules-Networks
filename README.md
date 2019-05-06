@@ -27,8 +27,11 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) and repo: https://git
 
 ***
 - TO DO list
+	
 	more Blogs to explain details clearly 
+	
 	more papers
+	
 	more applications
 
 
