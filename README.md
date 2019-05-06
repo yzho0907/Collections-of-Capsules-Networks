@@ -1,5 +1,5 @@
 # Collections-of-Capsules-Networks
-Collections of Related Papers and Repo about Capsules (mainly focusing on the theory and its applications)
+Collections of Related Papers and Repo about Capsules (mainly focusing on the theory and its NLP applications)
 ***
 - For Starters (I'am a huge fan of Medium so...)
 
@@ -48,3 +48,5 @@ Text Classification](https://arxiv.org/pdf/1804.00538.pdf) and repo: https://git
 
 ***
 - Happy Learning~~
+Very nice collections: https://github.com/sekwiatkowski/awesome-capsule-networks
+I will try to pay more attention on its NLP.
