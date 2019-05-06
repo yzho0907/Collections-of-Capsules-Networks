@@ -3,13 +3,13 @@ Collections of Related Papers and Repo about Capsules (mainly focusing the theor
 ***
 - For Starters (I'am a huge fan of Medium so...)
 
-Part I: [Intuition](https://pechyonkin.me/capsules-1/)
+	Part I: [Intuition](https://pechyonkin.me/capsules-1/)
 
-Part II: [How Capsules Work ](https://pechyonkin.me/capsules-2/) 
+	Part II: [How Capsules Work ](https://pechyonkin.me/capsules-2/) 
 
-Part III: [Dynamic Routing Between Capsules](https://pechyonkin.me/capsules-3/) 
+	Part III: [Dynamic Routing Between Capsules](https://pechyonkin.me/capsules-3/) 
 
-Part IV: [CapsNet Architecture](https://pechyonkin.me/capsules-4/) 
+	Part IV: [CapsNet Architecture](https://pechyonkin.me/capsules-4/) 
 
 ***
 - Original Papers
