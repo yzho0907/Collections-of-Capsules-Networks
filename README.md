@@ -1,5 +1,5 @@
 # Collections-of-Capsules-Networks
-Collections of Related Papers and Repo about Capsules (mainly focusing the theory and its applications)
+Collections of Related Papers and Repo about Capsules (mainly focusing on the theory and its applications)
 ***
 - For Starters (I'am a huge fan of Medium so...)
 
