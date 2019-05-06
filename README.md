@@ -20,10 +20,16 @@ Collections of Related Papers and Repo about Capsules (mainly focusing on the th
 
 	2018 Hinton released a new routing algorithm in paper [Matrix Capsules with EM Routing](https://openreview.net/pdf?id=HJWLfGWRb) 
 
+
+***
+- Extensions
+	
+	2018 [Fast Dynamic Routing Based on Weighted Kernel Density Estimation](https://arxiv.org/pdf/1805.10807.pdf) 
+
 ***
 - Applications
 	
-	2018 NLP: TEXT CLASSIFICATIONS [ Investigating Capsule Networks with Dynamic Routing for
+	2018 NLP: TEXT CLASSIFICATIONS [Investigating Capsule Networks with Dynamic Routing for
 Text Classification](https://arxiv.org/pdf/1804.00538.pdf) and repo: https://github.com/andyweizhao/capsule_text_classification
 
 	2019 NLP: INTENT CLASSIFICATIONS [Zero-shot User Intent Detection via Capsule Neural Networks](https://arxiv.org/abs/1809.00385) and repo: https://github.com/congyingxia/ZeroShotCapsule
