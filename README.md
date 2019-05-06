@@ -22,6 +22,7 @@ Collections of Related Papers and Repo about Capsules (mainly focusing the theor
 
 ***
 - Applications
+	
 	2018 NLP: TEXT CLASSIFICATIONS [ Investigating Capsule Networks with Dynamic Routing for
 Text Classification](https://arxiv.org/pdf/1804.00538.pdf) and repo: https://github.com/andyweizhao/capsule_text_classification
 
